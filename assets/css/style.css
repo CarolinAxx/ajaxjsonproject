@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+#container{
+    text-align: center;
+    margin: 20px;
+}
+
+.results{
+    text-align: center;
+}
+
+.card{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.center{
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(177 128 90 / 56%);
+}
